@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+#red {
+  accent-color: red;
+}
+
+#green {
+  accent-color: green;
+}
+#blue {
+  accent-color: blue;
+}
