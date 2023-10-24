@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: limegreen;
+}
+
+#ball {
+  width: 10rem;
+  height: 10rem;
+  background-color: aquamarine;
+  border-radius: 50%;
+  left: 50%;
+  bottom: 50%;
+  position: absolute;
+  transition-property: bottom;
+  transition-duration: 2s;
+}
